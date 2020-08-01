@@ -1,0 +1,17 @@
+###
+# IDEs: https://www.toptal.com/developers/gitignore
+###
+
+### Intellij ###
+.idea
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Composer
+vendor
